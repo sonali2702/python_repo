@@ -1,0 +1,24 @@
+
+
+Python program to print "Hello Python"
+Python program to do arithmetical operations
+Python program to find the area of a triangle
+Python program to solve quadratic equation
+Python program to swap two variables
+Python program to generate a random number
+Python program to convert kilometers to miles
+Python program to convert Celsius to Fahrenheit
+Python program to display calendar
+Python Program to Check if a Number is Positive, Negative or Zero
+Python Program to Check if a Number is Odd or Even
+Python Program to Check Leap Year
+Python Program to Check Prime Number
+Python Program to Print all Prime Numbers in an Interval
+Python Program to Find the Factorial of a Number
+Python Program to Display the multiplication Table
+Python Program to Print the Fibonacci sequence
+Python Program to Check Armstrong Number
+Python Program to Find Armstrong Number in an Interval
+Python Program to Find the Sum of Natural Numbers
+Python Program to Print Reverse of a String
+Python Program to Print Sum of First Ten Natural Numbers
